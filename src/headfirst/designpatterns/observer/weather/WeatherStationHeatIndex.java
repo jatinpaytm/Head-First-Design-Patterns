@@ -1,5 +1,6 @@
 package headfirst.designpatterns.observer.weather;
-
+// This package code is hard codes and does not use
+// Builtin Observable class and observer interface
 public class WeatherStationHeatIndex {
 
 	public static void main(String[] args) {
